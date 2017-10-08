@@ -15,7 +15,6 @@
 			padding-bottom: 68px;
 			padding-top: 74px;
 			color: white;
-			border: 5px solid black;
 		}
 	</style>
 </head>
